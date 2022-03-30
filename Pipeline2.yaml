@@ -1,0 +1,23 @@
+#used for testing error handling
+Pop_Index: 3
+Non_Value: "NaN"
+NoN_Value_Index: 5
+Non_Value2: ""
+
+#used to create new files name that the data will be saved into as
+File_Name: "CloudComputing.txt"
+
+#error handling delay for message and message itself
+sleeping_time: 5
+error_message: "There Are NAN's In The Data Given, Closing Program"
+
+#bar charts values and figure sizes
+bar_chart_widths: 0.35
+N: 4
+Average_Mapper_Times: [0.00099, 0.00199, 0.00200, 0.00199]
+Average_Reducer_Times: [0.00099, 0.00297, 0.00198, 0.00297]
+Fig_Size: [20,8]
+Fig_Size2: [30,8]
+Fig_Size3: [15,8]
+
+
